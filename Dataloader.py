@@ -8,8 +8,8 @@ Created on Sun Dec 31 18:27:57 2023
 class DataLoader:
 
     def __init__(self, start_date, end_date):
-         self.binance_client = Client('G4ocQV5RGywtoowV8YgvBjVWhA1shFKPrWzjqMfCgd7pBNEJxsTtZzbr1dNR6Sn2',
-                                      '4xWeaVfyiWTmS0kAsdp03xSqZfu0Z42LYqj9LmSESiFYYTYyoWmXBQwSzjdN2Tol')
+         self.binance_client = Client('',
+                                      '')
          self.start_date = start_date
          self.end_date = end_date
          
