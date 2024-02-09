@@ -1,1 +1,1 @@
-The code is fully functionnal but you have to input your own binan api keys in the dataloader to use it.
+The code is fully functionnal but you have to input your own binance api keys in the dataloader to use it.
